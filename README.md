@@ -1,12 +1,5 @@
 # algorithmic task
 
-## Test the application
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
 ## General info
 The purpose of this project was to create algoritm that receives two sequences: A and B of integers and returns one sequence C.
 

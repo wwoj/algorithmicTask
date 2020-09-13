@@ -18,8 +18,9 @@ Project is created with:
 ## Setup
 To run this project,
 ```
-$ git clone https://wojwixx@bitbucket.org/dev_practice_pl/airkiosk_ww.git or download repository
-$ open file and runt the index.html
+$ git clone https://github.com/wwoj/algorithmicTask.gitor download repository
+$ open file and run the index.html
+$ result will be displayed on the index.html page and in  the console.
 ```
 
 ## Contact

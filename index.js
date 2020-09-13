@@ -12,7 +12,7 @@ window.onload = function() {
     document.body.appendChild(h3);
     h3.innerText = `Array C: [${C}]`;
 
-    document.body.appendChild(ul);
+    
    
 
   };
